@@ -1,0 +1,134 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1{
+    text-align: center;
+    margin: 30px 0px;
+}
+
+input{
+    width: 50%;
+    padding: 10px 20px;
+    outline: none;
+}
+
+button{
+    padding: 10px 20px;
+    border: none;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: white;
+    color: black;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2);
+}
+
+main{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    gap: 10px;
+    width: 100%;
+}
+
+article{
+    border-radius: 10px;
+    margin: 30px 0px 0px 0px;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2);
+    width: calc(30% - 10px);
+}
+
+.imagen-personaje{
+    width: 100%;
+    height: 400px;
+    overflow: hidden;
+}
+
+img{
+    border-radius: 10px 10px 0px 0px;
+    width: 400px;
+    height: 400px;
+    object-fit: cover;
+    object-position: top;
+}
+
+p{
+    padding: 10px 30px;
+    font-size: 14px;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.nombre-personaje{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.id-personaje{
+    font-size: 15px;
+}
+
+.datos1{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+
+p img{
+    width: 14px;
+    align-items: center;
+    
+}
+
+.lista-episodios-detalle {
+    list-style: none;
+    padding: 0;
+    margin: 2rem;
+    text-align: left;
+}
+
+/* Opcional: Alinear el encabezado "Episodios:" a la derecha */
+.episodios-detalle {
+    text-align: right; /* Alinea el texto del encabezado "Episodios:" a la derecha */
+}
+
+span{
+    font-weight: bold;
+}
+
+hr{
+    width: 90%;
+    margin: 0 auto;
+}
+
+#no-encontrado{
+    display: flex;
+    justify-content: center;
+    margin: 20px 0px;
+}
+
+@media (max-width: 4020px) {
+    article {
+        width: calc(25% - 10px); 
+    }
+}
+
+@media (max-width: 768px) {
+    article {
+        width: calc(45% - 10px); 
+    }
+}
+
+@media (max-width: 480px) {
+    article {
+        width: calc(100% - 10px); 
+    }
+}
