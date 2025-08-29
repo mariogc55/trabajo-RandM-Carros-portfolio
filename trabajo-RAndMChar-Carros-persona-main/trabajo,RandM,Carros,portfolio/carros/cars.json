@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "brand": "Toyota",
+        "model": "Corolla",
+        "year": 2022,
+        "imageUrl": "https://images.hgmsites.net/hug/2022-toyota-corolla_100813659_h.jpg",
+        "description": "Un sedán confiable y eficiente, ideal para uso diario."
+    },
+    {
+        "id": 2,
+        "brand": "Ford",
+        "model": "Mustang",
+        "year": 2021,
+        "imageUrl": "https://tse4.mm.bing.net/th/id/OIP.eoahEhJz52gzStD8xPFk_AHaEK?rs=1&pid=ImgDetMain&o=7&rm=3",
+        "description": "Un icónico deportivo americano con potente rendimiento."
+    },
+    {
+        "id": 3,
+        "brand": "Tesla",
+        "model": "Model 3",
+        "year": 2023,
+        "imageUrl": "https://tse2.mm.bing.net/th/id/OIP.o1jqRGK2rfMe3pP8YTKsJAHaEc?rs=1&pid=ImgDetMain&o=7&rm=3",
+        "description": "Vehículo eléctrico de alta tecnología con gran autonomía."
+    },
+    {
+        "id": 4,
+        "brand": "Honda",
+        "model": "Civic",
+        "year": 2022,
+        "imageUrl": "https://th.bing.com/th/id/R.61b936feb64a82cd53295e0456ed910d?rik=0fQhq%2bMvqhqpxA&pid=ImgRaw&r=0",
+        "description": "Conocido por su fiabilidad y diseño moderno."
+    },
+    {
+        "id": 5,
+        "brand": "BMW",
+        "model": "X5",
+        "year": 2021,
+        "imageUrl": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/2021-bmw-x5-mmp-1-1600284201.jpg?crop=1.00xw:0.750xh;0,0.149xh&resize=1200:*",
+        "description": "Un SUV de lujo con una experiencia de conducción superior."
+    },
+    {
+        "id": 6,
+        "brand": "Mercedes-Benz",
+        "model": "C-Class",
+        "year": 2022,
+        "imageUrl": "https://th.bing.com/th/id/R.25d25cf30778c68b23d6c2e4d80e5b81?rik=oMR6yFOtQYotjQ&pid=ImgRaw&r=0",
+        "description": "Elegancia y tecnología se unen en este sedán de lujo."
+    },
+    {
+        "id": 7,
+        "brand": "Audi",
+        "model": "Q7",
+        "year": 2023,
+        "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/2020-audi-q7-208-1584322589.jpg?crop=0.875xw:0.658xh;0.125xw,0.247xh&resize=1200:*",
+        "description": "Un SUV espacioso y lujoso con tecnología de punta."
+    },
+    {
+        "id": 8,
+        "brand": "Chevrolet",
+        "model": "Camaro",
+        "year": 2021,
+        "imageUrl": "https://tse4.mm.bing.net/th/id/OIP.k7X3qwSH3AMM5b_OeNItJQHaEE?rs=1&pid=ImgDetMain&o=7&rm=3",
+        "description": "Un potente muscle car con un diseño agresivo."
+    }
+]

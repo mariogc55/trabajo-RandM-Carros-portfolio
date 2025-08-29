@@ -1,0 +1,13 @@
+
+{
+    "name": "Mario Guerrero",
+    "job_title": "Desarrollador Web",
+    "bio": "Soy estudiante de Ingeniería de Sistemas en la Universidad Santiago de Cali y tengo una gran pasión por la tecnología y las tendencias avanzadas. Mis principales intereses son la Inteligencia Artificial (IA) y la Generación Aumentada por Recuperación (RAG). Estoy desarrollando activamente mis habilidades en diversas áreas y me dedico a profundizar mis conocimientos en lenguajes de programación como Python, Java, C#, HTML, CSS y JavaScript.",
+    "email": "mariogc5555@gmail.com",
+    "phone": "(COL)318 602 0108",
+    "social_media": {
+        "linkedin": "https://www.linkedin.com/in/mario-guerrero-castillo-b19214283",
+        "github": "https://github.com/mariogc55"
+    },
+    "profile_image": "assets/imagen_me.jpeg"
+}
